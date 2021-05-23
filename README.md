@@ -1,7 +1,9 @@
 # Assembler
 An assembler to translate the assembly code into machine code
 
-Input format:
+An Assembler takes a text file as an input, which contains the Assembly code. It translates the assembly code into machine code. The machine code generated will be saved in a separate text file.
+
+**Input format:**
 
 [Filename] [START] [Location count ]
 
@@ -13,7 +15,7 @@ Input format:
 
 **Label is not mandatory
 
-Assumption:
+**Assumption:**
 
 1. The address should be in binary form, and if any other format like hex or oct is given, it will be taken as a string, and a new address will be allocated. 
     
@@ -56,3 +58,6 @@ Error reporting:
 
 7. All those variables[operand ], which are defined but not used, will show an error. Similarly, variables used but not defined will also print errors with line numbers.
 
+CO Assembler Project
+
+Team Member - Sambhav Jain
