@@ -39,7 +39,7 @@ An Assembler takes a text file as an input, which contains the Assembly code. It
      
 11. Comment should start from "#."
 
-Error reporting:
+**Error reporting:**
 
 1. assembly code must start from file followed by START opcode and location counter. if not then it can be
        - Formate error.
@@ -58,6 +58,6 @@ Error reporting:
 
 7. All those variables[operand ], which are defined but not used, will show an error. Similarly, variables used but not defined will also print errors with line numbers.
 
-CO Assembler Project
 
-Team Member - Sambhav Jain
+
+CO Assembler Project | Team Member - Sambhav Jain
