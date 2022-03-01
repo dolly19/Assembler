@@ -60,4 +60,4 @@ An Assembler takes a text file as an input, which contains the Assembly code. It
 
 
 
-CO Assembler Project | Team Member - Sambhav Jain
+**Assembler Project undertaken in Computer Organisation Course (IIITD Winter 2020 Semester) | Team Member - Sambhav Jain**
